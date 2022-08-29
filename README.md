@@ -1,3 +1,3 @@
 # BasicPythonTutorial
-Tutorial that I followed from Giraffe Academy to do basic Python
-now used for syntax revision
+Tutorial that I followed from Giraffe Academy to do basic Python.
+Now used for syntax revision
